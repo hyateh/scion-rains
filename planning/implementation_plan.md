@@ -8,7 +8,7 @@ We plan to progress in 4 phrase, in line with the project schedule.
 
 - Est. duration: 0.5 month
 - Tasks
-  - Resolve the identified [urgent issues]()
+  - Resolve the identified [urgent issues](./issue_tracking.md)
   - Build with the current Go version used by SCIONLab
   - Integration test
 
@@ -41,4 +41,4 @@ We plan to progress in 4 phrase, in line with the project schedule.
   - Integrate all components
   - Deploy to SCIONLab
   - Evaluation plan (TBD)
-  - Resolve [non-urgent issues]()
+  - Resolve [non-urgent issues](./issue_tracking.md)
