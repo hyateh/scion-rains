@@ -1,6 +1,6 @@
 # Background
 
-This file serves to track the pending issues in the current RAINS codebase as well as newly discovered ones.
+This file serves to track the [pending issues](https://github.com/netsec-ethz/rains/projects/5) in the current RAINS codebase as well as newly discovered ones.
 
 We classify issues into *Urgent* (pertinent to the correct functioning of the baseline version) and *Non-urgent* (could be resolved at a later time).
 
